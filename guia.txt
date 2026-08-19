@@ -1,0 +1,22 @@
+Descargar virtualbox host de windows y ubuntu 16(para descargarlos haslo desde Google)
+Busca el enlace para descargar y cuando termine abrelo(solo virtualbox, ubuntu no lo abras solo descargalo), te saldra una ventana donde te da politicas, permisos, etc. completa esa ventana y se instalará.
+Abrir virtualbox ya descargado y crear una maquina, para esto preciona el boton "nuevo" que esta en la esquina superior izquierda y es de color azul
+Te saldra una ventana, en la primer opcion elige el nombre de tu maquina.
+En la segunda deja la carpeta que te selecciona.
+En la tercera busca y selecciona el archivo de ubuntu que descargaste.
+Das clic en siguiente y te saldra otra ventana.
+En esta ventana elige tu nombre de usuario, contraseña y host name y domain name te los pondra automaticamente, da clic en siguiente.
+Abrira una nueva ventana en la que tienes que ajustar las opciones segun la capacidad de tu computadora.
+Cuando lo ajustes da clic en siguiente y en la siguiente ventana da clilc en terminar y sola se instalara.
+Hasta aqui ya tienes instalado virtualbox, ahora sigue instalar Visual Studio Code y Git.
+Para instalarlo busca en Google la opcion para instalar y descarga, cuando los abras te saldra una ventana muy parecida a la de virtualbox, y repite lo mismo de aceptar las politicas, etc.
+Ahora entra a Github desde Google, crea una cuenta o inicia sesion si ya la tienes, para esto haslo como en cualquier otra aplicacion.
+Ya que estes en Github crea un nuevo repositorio dando clic en el boton verde con un libro que dice "nuevo".
+Saldra una ventana donde pondras el nombre de tu repositorio.
+En la opcion de descripcion dejala asi como esta.
+En visibilidad ponlo publico.
+En README preciona el boton, tiene que salir azul.
+En licencia pon la GNU y por ultimo en crear repositorio.
+Y por ultimo para vinvular tu cuenta de Github con Visual Studio Code primero entra a este ultimo
+Busca la opcion de ajustes que esta en la esquina inferior izquieda y dale clic.
+Ahí te saldra la opcion de vincular tu cuenta y ya solo tienes que inciar sesion con tu contraseña.
